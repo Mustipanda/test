@@ -114,7 +114,7 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" group-title="",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://www.trtizle.com/a8aff601-e9ae-4ff4-9a22-fa97201cd6e7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" group-title="",TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi
