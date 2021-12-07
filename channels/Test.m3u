@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Pro 7 UHD
+http://103.194.169.171:8282/DE_PRO7SAT1_4K/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 MAXX HD +
+http://eu1.x365btv.com:8080/sercankaracay/n2gRLPBtSzrSx1Y4lmfs15mR0etDvSSx/973
