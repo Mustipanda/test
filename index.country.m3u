@@ -14632,14 +14632,14 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/WD0JaKP.png" group-title="Turkey",Semerkand TV (720p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Turkey",Show TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML; like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Turkey",Show TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1640483025&st=gT9wjFXjs8CNFVhP3zhroA&tv=1
 #EXTINF:-1 tvg-id="SinopYildizTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/qk102lK.png" group-title="Turkey",Sinop Yildiz TV (360p)
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Turkey",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.startv.com.tr/assets/images/content/logo.png", user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"  group-title="Turkey",Star TV (720p)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.startv.com.tr/assets/images/content/logo.png", user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML; like Gecko Chrome/76.0.3809.25 Safari/537.36"  group-title="Turkey",Star TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.dailymotion.com/video/x729whv
 #EXTINF:-1 tvg-id="SterkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="Turkey",Sterk TV (480p) [Not 24/7]
