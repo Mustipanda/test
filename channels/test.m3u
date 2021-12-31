@@ -5,3 +5,6 @@ https://www.dailymotion.com/video/x729whv
 #EXTINF:-1 tvg-id="Show TV" tvg-name="" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML; like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Turkey",Show TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.youtube.com/rtMDAEQgyl8
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" ,user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML; like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Turkey",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://list.iptvcat.com/my_list/s/49d5f82d1396b2fcbb7bc40e87959044.m3u8
