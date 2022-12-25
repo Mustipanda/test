@@ -1,4 +1,6 @@
-
+https://iptv-org.github.io/iptv/countries/tr.m3u
+ https://iptv-org.github.io/iptv/countries/de.m3u
+ https://iptv-org.github.io/iptv/countries/gr.m3u
 #EXTM3U
 #EXTINF:1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Ulusal",TRT 1 
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
